@@ -2,21 +2,25 @@ Programa que lê números de um arquivo .txt e retorna um novo arquivo com esses
 
 # Exemplo de entrada
 ## exemplo.txt
+```plaintext
 31
 40
 59
 26
 41
 58
+```
 
 # Exemplo de saída
 ## ordenado.txt
+```plaintext
 26
 31
 40
 41
 58
 59
+```
 
 # Como executar 
 
